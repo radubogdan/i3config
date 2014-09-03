@@ -2,10 +2,10 @@
 
 ### Screenshots
 
-![Clean shot, no windows](https://raw.github.com/nightsh/i3config/master/screens/i3wm-1.png)[ Clean shot, no windows ]
-![Some terminals open, nothing unusual](https://raw.github.com/nightsh/i3config/master/screens/i3wm-2.png)[ Some terminals open, nothing unusual ]
-![Floating terminal](https://raw.github.com/nightsh/i3config/master/screens/i3wm-3.png)[ GVim running ]
-![Vim running in urxvt](https://raw.github.com/nightsh/i3config/master/screens/i3wm-4.png)[ Vim running in gnome-terminar ]
+![Clean shot, no windows](https://raw.githubusercontent.com/radubogdan/i3config/radubogdan-i3/screens/i3wm-1.png)[ Clean shot, no windows ]
+![Some terminals open, nothing unusual](https://raw.githubusercontent.com/radubogdan/i3config/radubogdan-i3/screens/i3wm-2.png)[ Some terminals open, nothing unusual ]
+![Floating terminal](https://raw.githubusercontent.com/radubogdan/i3config/radubogdan-i3/screens/i3wm-3.png)[ Floating terminal]
+![Vim running in urxvt](https://raw.githubusercontent.com/radubogdan/i3config/radubogdan-i3/screens/i3wm-4.png)[ Vim running in urxvt ]
 
 
 ### Requirements
