@@ -5,6 +5,7 @@ floating_modifier $mod
 
 # start a terminal
 bindsym $mod+Return exec /usr/bin/urxvt
+bindsym $mod+Shift+Return exec ~/.i3/scripts/launch_terminal.sh
 
 # kill focused window
 bindsym $mod+Shift+q kill
