@@ -130,6 +130,7 @@ bindsym $mod+r mode "resize"
 # Custom keys
 bindsym $mod+Shift+F1 exec "iceweasel"
 bindsym $mod+Shift+F7 exec --no-startup-id "nitrogen --restore"
+bindsym $mod+Shift+F12 exec "~/.i3/scripts/custom_suspend.sh"
 bindsym XF86AudioRaiseVolume exec --no-startup-id "~/.i3/scripts/volnoti-handle.sh up"
 bindsym XF86AudioLowerVolume exec --no-startup-id "~/.i3/scripts/volnoti-handle.sh down"
 bindsym XF86MonBrightnessUp exec /usr/bin/xbacklight -inc 10
